@@ -1,0 +1,1 @@
+{"version":3,"sources":["adopt-app/script/main.js"],"names":["console","log"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAAA,QAAQC,GAAR,CAAY,GAAZ","file":"main.949cbd6d.map","sourceRoot":"../..","sourcesContent":["console.log(123);"]}
