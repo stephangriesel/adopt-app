@@ -8,7 +8,7 @@ $(document).ready(() => {
     });
 });
 
-// Get value from form 
+// Get value from form
 function getBreed(breed) {
     axios.get('https://api.thedogapi.com/v1/breeds/'+breed)
     .then((response) => {

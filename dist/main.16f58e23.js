@@ -114,7 +114,7 @@ $(document).ready(function () {
     });
 });
 
-// Get value from form 
+// Get value from form
 function getBreed(breed) {
     axios.get('https://api.thedogapi.com/v1/breeds/' + breed).then(function (response) {
         console.log(response);
